@@ -40,6 +40,8 @@ Wellness-focused projects
 Personal health management tools
 🔮 Future Enhancements
 Persistent database storage
+
+STREAMLIT LINK : https://medisia-txjhd8fa3xks56wfwtx5we.streamlit.app/
 Weekly and monthly mood analytics
 Medicine reminders and notifications
 User authentication and profiles
